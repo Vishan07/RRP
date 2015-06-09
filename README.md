@@ -2,7 +2,7 @@
 Restaurant Revenue Prediction for Fundamentals of Data Analytics 
 
 ##Links to most important documents
-* Drive: `https://docs.google.com/document/d/1cMCBfgbTHBYQge0hBpN-9kHAiXodbNbrSzLRfUW8rOQ/edit`
+* [Drive](https://docs.google.com/document/d/1cMCBfgbTHBYQge0hBpN-9kHAiXodbNbrSzLRfUW8rOQ/edit)
 
 ##Home
 With over 1,200 quick service restaurants across the globe, TFI is the company behind some of the world's most well-known brands: Burger King, Sbarro, Popeyes, Usta Donerci, and Arby’s. They employ over 20,000 people in Europe and Asia and make significant daily investments in developing new restaurant sites.
