@@ -11,6 +11,7 @@ b = summary(bigCities$revenue)
 c= summary(otherCities$revenue)
 
 #boxplots
-boxplot(bigCities$revenue, las=2, col="royalblue2", names="Revenue", xlab="Revenue in Lira (big cities)")
+boxplot(data$revenue, bigCities$revenue, otherCities$revenue,col=c("red", "royalblue2", "green"), names=c("All Data", "Big Cities", "Others"), ylab="Revenue")
 #boxplot(otherCities$revenue)
 #boxplot(otherCities$revenue, las=2, col="Green", names="Revenue", xlab="Revenue in Lira (other cities)")
+#boxplot(data$revenue, las=2, col="Green", names="Revenue", xlab="Revenue in Lira (all data)")
